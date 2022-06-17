@@ -1,6 +1,4 @@
 # Mozeli-QuickApp-Privancy-Policy
-This is to hold the privacy policy for Mozeli: QuickApp
-
 
 
 <h2 style="text-align: center;"><b>PRIVACY POLICY</b></h2>
