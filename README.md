@@ -1,4 +1,4 @@
-# MiShop Demo-Privancy-Policy
+# iShop Demo-Privancy-Policy
 
 
 <h2 style="text-align: center;"><b>PRIVACY POLICY</b></h2>
