@@ -1,4 +1,4 @@
-# Shopela-Privancy-Policy
+# Shopela
 
 
 <h2 style="text-align: center;"><b>PRIVACY POLICY</b></h2>
